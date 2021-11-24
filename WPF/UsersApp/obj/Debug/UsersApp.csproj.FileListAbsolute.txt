@@ -1,0 +1,160 @@
+C:\Users\Max\source\repos\UsersApp\UsersApp\bin\Debug\UsersApp.exe.config
+C:\Users\Max\source\repos\UsersApp\UsersApp\bin\Debug\UsersApp.exe
+C:\Users\Max\source\repos\UsersApp\UsersApp\bin\Debug\UsersApp.pdb
+C:\Users\Max\source\repos\UsersApp\UsersApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Max\source\repos\UsersApp\UsersApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Max\source\repos\UsersApp\UsersApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Max\source\repos\UsersApp\UsersApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Max\source\repos\UsersApp\UsersApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Max\source\repos\UsersApp\UsersApp\obj\Debug\UsersApp.csproj.AssemblyReference.cache
+C:\Users\Max\source\repos\UsersApp\UsersApp\obj\Debug\App.g.cs
+C:\Users\Max\source\repos\UsersApp\UsersApp\obj\Debug\UsersApp_MarkupCompile.cache
+C:\Users\Max\source\repos\UsersApp\UsersApp\obj\Debug\UsersApp_MarkupCompile.lref
+C:\Users\Max\source\repos\UsersApp\UsersApp\obj\Debug\App.baml
+C:\Users\Max\source\repos\UsersApp\UsersApp\obj\Debug\UsersApp.g.resources
+C:\Users\Max\source\repos\UsersApp\UsersApp\obj\Debug\UsersApp.Properties.Resources.resources
+C:\Users\Max\source\repos\UsersApp\UsersApp\obj\Debug\UsersApp.csproj.GenerateResource.cache
+C:\Users\Max\source\repos\UsersApp\UsersApp\obj\Debug\UsersApp.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\UsersApp\UsersApp\obj\Debug\UsersApp.csproj.CopyComplete
+C:\Users\Max\source\repos\UsersApp\UsersApp\obj\Debug\UsersApp.exe
+C:\Users\Max\source\repos\UsersApp\UsersApp\obj\Debug\UsersApp.pdb
+C:\Users\Max\source\repos\UsersApp\UsersApp\obj\Debug\UsersApp_Content.g.cs
+C:\Users\Max\source\repos\UsersApp\UsersApp\bin\Debug\EntityFramework.dll
+C:\Users\Max\source\repos\UsersApp\UsersApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Max\source\repos\UsersApp\UsersApp\bin\Debug\EntityFramework.xml
+C:\Users\Max\source\repos\UsersApp\UsersApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Max\source\repos\UsersApp\UsersApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Max\source\repos\UsersApp\UsersApp\obj\Debug\Views\AuthWindow.g.cs
+C:\Users\Max\source\repos\UsersApp\UsersApp\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Max\source\repos\UsersApp\UsersApp\obj\Debug\Views\UserPageWindow.g.cs
+C:\Users\Max\source\repos\UsersApp\UsersApp\obj\Debug\Views\AuthWindow.baml
+C:\Users\Max\source\repos\UsersApp\UsersApp\obj\Debug\Views\MainWindow.baml
+C:\Users\Max\source\repos\UsersApp\UsersApp\obj\Debug\Views\UserPageWindow.baml
+C:\Users\Max\source\repos\UsersApp\UsersApp\obj\Debug\Views\UsersList.g.cs
+C:\Users\Max\source\repos\UsersApp\UsersApp\obj\Debug\Views\UsersList.baml
+C:\Users\Max\source\repos\UsersApp195\UsersApp\obj\Debug\UsersApp.csproj.AssemblyReference.cache
+C:\Users\Max\source\repos\UsersApp195\UsersApp\obj\Debug\Views\AuthWindow.g.cs
+C:\Users\Max\source\repos\UsersApp195\UsersApp\obj\Debug\Views\MainWindow.g.cs
+C:\Users\Max\source\repos\UsersApp195\UsersApp\obj\Debug\App.g.cs
+C:\Users\Max\source\repos\UsersApp195\UsersApp\obj\Debug\UsersApp_MarkupCompile.cache
+C:\Users\Max\source\repos\UsersApp195\UsersApp\obj\Debug\UsersApp_MarkupCompile.lref
+C:\Users\Max\source\repos\UsersApp195\UsersApp\obj\Debug\UsersApp.exe
+C:\Users\Max\source\repos\UsersApp195\UsersApp\obj\Debug\UsersApp.pdb
+C:\Users\Max\source\repos\UsersApp195\UsersApp\bin\Debug\UsersApp.exe.config
+C:\Users\Max\source\repos\UsersApp195\UsersApp\bin\Debug\UsersApp.exe
+C:\Users\Max\source\repos\UsersApp195\UsersApp\bin\Debug\UsersApp.pdb
+C:\Users\Max\source\repos\UsersApp195\UsersApp\bin\Debug\EntityFramework.dll
+C:\Users\Max\source\repos\UsersApp195\UsersApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Max\source\repos\UsersApp195\UsersApp\bin\Debug\MaterialDesignColors.dll
+C:\Users\Max\source\repos\UsersApp195\UsersApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Max\source\repos\UsersApp195\UsersApp\bin\Debug\EntityFramework.xml
+C:\Users\Max\source\repos\UsersApp195\UsersApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Max\source\repos\UsersApp195\UsersApp\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Max\source\repos\UsersApp195\UsersApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Max\source\repos\UsersApp195\UsersApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Max\source\repos\UsersApp195\UsersApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Max\source\repos\UsersApp195\UsersApp\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Max\source\repos\UsersApp195\UsersApp\obj\Debug\App.baml
+C:\Users\Max\source\repos\UsersApp195\UsersApp\obj\Debug\Views\AuthWindow.baml
+C:\Users\Max\source\repos\UsersApp195\UsersApp\obj\Debug\Views\MainWindow.baml
+C:\Users\Max\source\repos\UsersApp195\UsersApp\obj\Debug\UsersApp.g.resources
+C:\Users\Max\source\repos\UsersApp195\UsersApp\obj\Debug\UsersApp.Properties.Resources.resources
+C:\Users\Max\source\repos\UsersApp195\UsersApp\obj\Debug\UsersApp.csproj.GenerateResource.cache
+C:\Users\Max\source\repos\UsersApp195\UsersApp\obj\Debug\UsersApp.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\UsersApp195\UsersApp\obj\Debug\UsersApp.csproj.CopyComplete
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\bin\Debug\UsersApp.exe.config
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\bin\Debug\UsersApp.exe
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\bin\Debug\UsersApp.pdb
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\bin\Debug\EntityFramework.dll
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\bin\Debug\EntityFramework.SqlServer.dll
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\bin\Debug\MaterialDesignColors.dll
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\bin\Debug\EntityFramework.xml
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\bin\Debug\EntityFramework.SqlServer.xml
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\bin\Debug\MaterialDesignColors.pdb
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\bin\Debug\ru\EntityFramework.resources.dll
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\obj\Debug\UsersApp.csprojAssemblyReference.cache
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\obj\Debug\Views\AuthWindow.g.cs
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\obj\Debug\Views\MainWindow.g.cs
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\obj\Debug\App.g.cs
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\obj\Debug\UsersApp_MarkupCompile.cache
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\obj\Debug\UsersApp_MarkupCompile.lref
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\obj\Debug\App.baml
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\obj\Debug\Views\AuthWindow.baml
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\obj\Debug\Views\MainWindow.baml
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\obj\Debug\UsersApp.g.resources
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\obj\Debug\UsersApp.Properties.Resources.resources
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\obj\Debug\UsersApp.csproj.GenerateResource.cache
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\obj\Debug\UsersApp.csproj.CoreCompileInputs.cache
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\obj\Debug\UsersApp.csproj.CopyComplete
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\obj\Debug\UsersApp.exe
+\\Pdc\студенты\195\Ревнивцев\Учебная практика\UsersApp195\UsersApp\obj\Debug\UsersApp.pdb
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\UsersApp.exe.config
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\UsersApp.exe
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\UsersApp.pdb
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\EntityFramework.dll
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\EntityFramework.SqlServer.dll
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\MaterialDesignColors.dll
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\EntityFramework.xml
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\EntityFramework.SqlServer.xml
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\MaterialDesignColors.pdb
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\ru\EntityFramework.resources.dll
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\Views\AuthWindow.g.cs
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\Views\MainWindow.g.cs
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\App.g.cs
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\UsersApp_Content.g.cs
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\UsersApp_MarkupCompile.cache
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\UsersApp_MarkupCompile.lref
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\App.baml
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\Views\AuthWindow.baml
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\Views\MainWindow.baml
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\UsersApp.g.resources
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\UsersApp.Properties.Resources.resources
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\UsersApp.csproj.GenerateResource.cache
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\UsersApp.csproj.CoreCompileInputs.cache
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\UsersApp.csproj.CopyComplete
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\UsersApp.exe
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\UsersApp.pdb
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\UsersApp.exe.config
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\UsersApp.exe
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\UsersApp.pdb
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\EntityFramework.dll
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\EntityFramework.SqlServer.dll
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\MaterialDesignColors.dll
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\MaterialDesignThemes.Wpf.dll
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\EntityFramework.xml
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\EntityFramework.SqlServer.xml
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\MaterialDesignColors.pdb
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\MaterialDesignThemes.Wpf.pdb
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\MaterialDesignThemes.Wpf.xml
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\ru\EntityFramework.resources.dll
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\UsersApp.csproj.AssemblyReference.cache
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\Views\AuthWindow.g.cs
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\Views\MainWindow.g.cs
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\App.g.cs
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\UsersApp_Content.g.cs
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\UsersApp_MarkupCompile.cache
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\UsersApp_MarkupCompile.lref
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\App.baml
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\Views\AuthWindow.baml
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\Views\MainWindow.baml
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\UsersApp.g.resources
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\UsersApp.Properties.Resources.resources
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\UsersApp.csproj.GenerateResource.cache
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\UsersApp.csproj.CoreCompileInputs.cache
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\UsersApp.csproj.CopyComplete
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\UsersApp.exe
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\UsersApp.pdb
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\UsersApp.csprojAssemblyReference.cache
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\userWindow.g.cs
+\\Pdc\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\userWindow.baml
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\userWindow.g.cs
+\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\userWindow.baml
