@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\obj\Debug\
+D:\Git\practic\WPF\UsersApp\obj\Debug\
 UsersApp
 none
 false
 DEBUG;TRACE
-\\192.168.1.1\студенты\195\Дьяков\ghfrnbrf\UsersApp195\UsersApp\App.xaml
-31447304783
-21750853300
-11-847177738
-2066011123
+D:\Git\practic\WPF\UsersApp\App.xaml
+3827724508
+2-1957146511
+11-2130350064
+20955589054
 userWindow.xaml;Views\AuthWindow.xaml;Views\MainWindow.xaml;
 
 False

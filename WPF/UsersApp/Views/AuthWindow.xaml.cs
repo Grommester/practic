@@ -48,13 +48,12 @@ namespace UsersApp
                 List<bd> User = Entities1.GetContext().bd.Where(p => p.login == login && p.pass == pass).ToList();
                 if (User.Count != 0)
                 {
-                    MessageBox.Show("ok");
+                    MessageBox.Show("Всё хорошо");
                     userWindow userPageWindow = new userWindow();
                     userPageWindow.Show();
                     Hide();
                 }
 
-                MessageBox.Show("ok");
             }
         }
 
